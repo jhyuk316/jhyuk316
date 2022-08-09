@@ -1,4 +1,7 @@
-### Hi there 👋
+## 백엔드 개발자가 되기 위해 스터디한 것을 기록
+
+### 포트폴리오
+- <https://www.notion.so/7882d915c1f146faba5e11c4830e4467>
 
 <!--
 **jhyuk316/jhyuk316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
